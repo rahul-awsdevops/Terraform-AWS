@@ -1,26 +1,20 @@
-Course Modules
-Infrastructure as Code (IaC)
-Terraform Basics
-Install Tools on MacOs, LinuxOS and WindowsOS
-Terraform Command Basics
-Terraform Language Syntax
-Terraform Settings, Providers and Resources
-Terraform Variables and Datasources
-Terraform Loops, Meta-Arguments and Splat Operators
-AWS VPC 3-Tier Architecture
-AWS EC2 Instances and Security Groups in a VPC
-AWS Classic Load Balancer
-AWS ALB Application Load Balancer
-AWS ALB Context-Path based Routing
-AWS ALB Host-Header based Routing
-AWS ALB HTTP Header and Query String Redirects
-AWS DNS to DB Implementation
-AWS Autoscaling with Launch Configuration
-AWS Autoscaling with Launch Templates
-AWS Network Load Balancer with TCP and TLS
-AWS CloudWatch Alarms for ALB, ASG and CIS
-Develop and Reference Terraform Modules locally
-Develop Terraform Module from scratch
-Remote State Storage with AWS S3 and DynamoDB
-Terraform Remote State Datasource
-IaC DevOps using AWS CodePipeline
+Terraform AWS Course Modules
+
+This repository covers essential Terraform and AWS concepts through practical examples. Below are the key modules:
+
+1. Infrastructure as Code (IaC)
+Introduction to IaC and its benefits.
+2. Terraform Basics
+Install Terraform on MacOS, Linux, and Windows.
+Core Commands: init, plan, apply.
+3. AWS VPC & EC2
+3-Tier VPC Architecture, EC2 Instances, and Security Groups.
+4. Load Balancers
+AWS CLB, ALB, NLB configuration and routing.
+5. Autoscaling & Monitoring
+Autoscaling with Launch Configurations & Templates.
+CloudWatch alarms for monitoring.
+6. Terraform Advanced Concepts
+Modules, Variables, Remote State, Provisioners.
+7. DevOps Integration
+IaC DevOps using AWS CodePipeline and CodeBuild.
